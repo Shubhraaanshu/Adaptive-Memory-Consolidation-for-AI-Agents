@@ -1,4 +1,7 @@
 # Adaptive Memory Consolidation for Long-Term AI Agents
+<p align="center">
+  <img src="amcm_banner.png" width="100%">
+</p>
 
 🚧 Research Project | Manuscript Under Preparation
 
@@ -10,6 +13,13 @@ AMCM-Agent is a research-oriented memory management framework designed to improv
 Unlike traditional vector-based memory systems that continuously accumulate information, AMCM-Agent dynamically evaluates memory utility and determines whether memories should be retained, merged, compressed, archived, or updated.
 
 ---
+
+## Framework Architecture
+
+<p align="center">
+  <img src="framework_architecture.png" width="90%">
+</p>
+
 
 ## Framework Components
 
@@ -42,6 +52,26 @@ Unlike traditional vector-based memory systems that continuously accumulate info
 | Memory Reduction                    | 21.8% |
 | F1@K Score                          | 0.270 |
 
+---
+## Experimental Results
+
+### Memory Consolidation Results
+
+<p align="center">
+  <img src="memory_consolidation_results.png" width="75%">
+</p>
+
+### Retrieval Performance Comparison
+
+<p align="center">
+  <img src="retrieval_performance_comparison.png" width="75%">
+</p>
+
+### Ablation Study
+
+<p align="center">
+  <img src="ablation_study.png" width="75%">
+</p>
 ---
 
 ## Key Findings
